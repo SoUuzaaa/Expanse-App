@@ -5,4 +5,4 @@
 
 #### Result:
 
-![preview]()
+![preview](https://github.com/SoUuzaaa/Expanse-App/blob/master/css/preview.gif)
